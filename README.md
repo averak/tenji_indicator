@@ -1,4 +1,4 @@
 tenji indicator
 ===============
 
-Rotate braille to show indicator.
+Displays an indicator that rotates Braille.
