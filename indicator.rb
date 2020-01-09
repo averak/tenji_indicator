@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 
-tenji = '⠟⠛⠻⠾⠶⠷'
+#tenji = '⠟⠛⠻⠾⠶⠷'
+tenji = '⠟⠿⠻⠾⠿⠷'
 
 index = 0
 
