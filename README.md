@@ -1,4 +1,4 @@
-tenji loading
-=============
+tenji indicator
+===============
 
 Rotate braille to show indicator.
